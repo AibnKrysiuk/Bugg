@@ -1,0 +1,19 @@
+========================== BUG
+
+- Terminar vistas (celular, tablet, note)
+- Ajustar tiempos de escritura
+- Agregar links de contacto 
+
+========================== QUICKDOCS
+
+- Continuar
+- Agregar Bases de Datos
+    - Articulos
+
+========================== PROYECTO CODER-FINAL
+
+- Empezar...
+- Ideas
+    - Pagina de juegos...
+        - Space Invaders
+        -  
