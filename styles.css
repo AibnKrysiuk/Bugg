@@ -42,7 +42,6 @@ footer .icos i:hover{
   animation: rotate 2s linear infinite;
 }
 button {
-  margin: 100px;
   z-index: 10;
 }
 
@@ -178,9 +177,10 @@ button {
 
 .btn-cerrar {
   display: none;
-  position: absolute; /* Position the button absolutely */
-  top: -50px; /* Set the top margin from the top of the container */
-  left: 770px; /* Set the right margin from the right of the container */
+  width: 10%;
+  position: relative; /* Position the button absolutely */
+  top: 0px; /* Set the top margin from the top of the container */
+  left: 300px; /* Set the right margin from the right of the container */
   z-index: 10; /* Ensure the button is on top of other elements */
   cursor: pointer; /* Set the cursor to a pointer on hover */
   font-family: "OCR A Extended", monospace;
