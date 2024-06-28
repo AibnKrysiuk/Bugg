@@ -130,12 +130,12 @@ function handleTouchMove(event) {
     // Puedes ajustar este umbral según tus necesidades
     if (distance > 3) {
         // Aquí puedes ejecutar acciones cuando se desliza hacia abajo
-        mostrar_imagenes(1);
+        mostrar_imagenes(-1);
     }
 
     if (distance < 3) {
         // Aquí puedes ejecutar acciones cuando se desliza hacia abajo
-        mostrar_imagenes(-1);
+        mostrar_imagenes(1);
     }
 
     // Reinicia la posición inicial
